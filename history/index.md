@@ -11,7 +11,7 @@ PyWPS was initially started by [Jachym Cepicky](http://les-ejk.cz) as part of hi
 
 The first PyWPS site as a demo application was the [WPS Demo](http://www.bnhelp.cz/mapserv/wpsdemo/index.php) provided by [Help Service Remote Sensing](http://www.bnhelp.cz>).
 
-The first presentation about PyWPS was held at [FOSS4G 2006](http://foss4g2006.org) conference in Lausanne titled 'GRASS goes to web: PyWPS](http://www.foss4g2006.org/contributionDisplay.py?contribId=67&sessionId=48&confId=1)'.
+The first presentation about PyWPS was held at [FOSS4G 2006](http://foss4g2006.org) conference in Lausanne titled '[GRASS goes to web: PyWPS](http://www.foss4g2006.org/contributionDisplay.py?contribId=67&sessionId=48&confId=1)'.
 
 Around October 2006, the project homepage has been moved from Jachym's personal homepage to GForge server hosted on [http://wald.intevation.org](http://wald.intevation.org) (maintained by [Intevation GmbH](http://intevation.org)`) to support their projects. Since then, PyWPS has its own mailing lists, source code repository and other necessary infrastructure for Open Source project.
 
