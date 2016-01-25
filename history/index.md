@@ -19,43 +19,43 @@ In October 2006, additional developers joined the development effort.  Please se
 
 **2006-11-10: version 1.0.0 released**
 
-    During November 2006, Lorenzo Becchi and Luca Casagrande started their work
-    on Web User Interface for WPS. They lunched two projects: 
-    [WUIW and Embrio](http://pywps.ominiverdi.org). WUIW should be
-    general web interace able to handle any WPS server. Embrio is bringing
-    functionality of [GRASS GIS](http://grass.itc.it) to the
-    Internet. WUIW and Embrio are part of PyWPS's repository
+During November 2006, Lorenzo Becchi and Luca Casagrande started their work
+on Web User Interface for WPS. They lunched two projects: 
+[WUIW and Embrio](http://pywps.ominiverdi.org). WUIW should be
+general web interace able to handle any WPS server. Embrio is bringing
+functionality of [GRASS GIS](http://grass.itc.it) to the
+Internet. WUIW and Embrio are part of PyWPS's repository
 
 **2007-10-08: version 2.0.0 released**
 
-    New version improved stability, approached in the standard implementation
-    and introduced the Python `Process` class to which methods can be
-    used in process coding/implementation.  A new WPS client project was launched
-    as well as a WPS plugin for [OpenLayers](http://openlayers.org)
+New version improved stability, approached in the standard implementation
+and introduced the Python `Process` class to which methods can be
+used in process coding/implementation.  A new WPS client project was launched
+as well as a WPS plugin for [OpenLayers](http://openlayers.org)
 
 **2008-11-06: version 3.0.0 released**
 
-    New version improved stability, new code structure, and implementation of
-    OGC:WPS 1.0.0
+New version improved stability, new code structure, and implementation of
+OGC:WPS 1.0.0
 
 **2009-06-01: version 3.1.0 released**
 
-    Improves `3.x` branch. New generic JavaScript WPS Client library and
-    more
+Improves `3.x` branch. New generic JavaScript WPS Client library and
+more
 
 **2013-05**
 
-    At FOSS4G-CEE, Bucharest we started to talk about a new implementation
-    of PyWPS, which would use all the benefits of the current Python world. First
-    lines were written at the codesprint after the conference
+At FOSS4G-CEE, Bucharest we started to talk about a new implementation
+of PyWPS, which would use all the benefits of the current Python world. First
+lines were written at the codesprint after the conference
 
 **2014-04**
 
-    Thanks to [http://www.list.lu](http://www.list.lu), the first PyWPS workshop
-    was organized in Luxembourg. PyWPS-4 discussion started
+Thanks to [http://www.list.lu](http://www.list.lu), the first PyWPS workshop
+was organized in Luxembourg. PyWPS-4 discussion started
 
 **2015**
 
-    Thanks to [http://www.list.lu](http://www.list.lu), two full-time developers
-    were actively working on PyWPS-4. Also thanks to Google Summer of Code, one
-    student was accepted.  PyWPS-4 also gets a new REST interface
+Thanks to [http://www.list.lu](http://www.list.lu), two full-time developers
+were actively working on PyWPS-4. Also thanks to Google Summer of Code, one
+student was accepted.  PyWPS-4 also gets a new REST interface
